@@ -3,7 +3,7 @@ My interest lies in DevOps and cloud infrastructure. My goals are to build robus
 
 🎓 Final year Software Engineering student at The University of Huddersfield
 
-💼 Currently seeking Graduate Junior DevOps / Cloud / Platform roles
+💼 Currently seeking Graduate Junior Cloud / DevOps / Platform roles
 
 ## 🚀 About Me
 
