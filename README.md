@@ -1,15 +1,15 @@
 ## Hello my name is Mohammad Yadan👋 
-My interest lies in DevOps and cloud infrastructure. My goals are to build robust and scalable solutions using CI / CD practices.
+Focused on building reliable, scalable solutions through CI / CD practices whilst ensuring robust software quality
 
-🎓 Final year Software Engineering student at The University of Huddersfield
+🎓 First Class Graduate in Software Engineering
 
-💼 Currently seeking Graduate Junior Cloud / DevOps / Platform roles
+💼 Currently seeking QA / Test Analyst & Junior Cloud / DevOps / Platform roles
 
 ## 🚀 About Me
 
 🔭 Successfully completed a year in industry as a Functional Test Analyst at Wireless CCTV, Ltd from Jul 2024 - Aug 2025
 
-🌱 Eager to problem solve and grow my skillset
+🌱 Eager to problem solve and grow my skillset in cloud and QA
 
 💡 Final Year Project: Lost and Found Web App
 
