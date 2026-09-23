@@ -1,21 +1,23 @@
 ## Hello my name is Mohammad Yadan👋 
-Focused on building reliable, scalable solutions through CI / CD practices whilst ensuring robust software quality
+Software Engineering graduate with industry experience in functional testing, software quality and technical troubleshooting.
 
 🎓 First Class Graduate in Software Engineering
 
-💼 Currently seeking QA / Test Analyst & Junior Cloud / DevOps / Platform roles
+💼 Seeking Junior QA / Test Analyst / Application Support opportunities
 
 ## 🚀 About Me
 
-🔭 Successfully completed a year in industry as a Functional Test Analyst at Wireless CCTV, Ltd from Jul 2024 - Aug 2025
+🔭 Completed a year in industry as a Functional Test Analyst at Wireless CCTV (WCCTV), working on a cloud-based surveillance platform
 
-🌱 Eager to problem solve and grow my skillset in cloud and QA
+🧪 Experience in functional, regression, integration and UAT testing, defect investigation and Azure DevOps
+
+🌱 Currently strengthening my skills in SQL, APIs, application troubleshooting and technical support
 
 💡 Final Year Project: Lost and Found Web App
 
-📍 Open to roles in the UK
+📍 Open to roles across the UK
 
-🎯 Goals: Working towards **AZ-900 (Microsoft Azure Fundamentals)** and developing core DevOps & cloud engineering skills
+🎯 Long-term: Developing towards cloud, systems and DevOps engineering
 
 
 ## 🛠️ Technical Skills
