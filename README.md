@@ -1,9 +1,6 @@
 ## Hello I'm Mohammad Yadan👋 
 I'm a First-Class Software Engineering graduate with a Year In Industry. I interested in finding efficient and robust solutions to a problem and constantly searching for ways to improve on them. My interest lies within the development analysis, operational support and cloud computing. 
 
-
-
-
 ##  Technical Skills
 
 Languages:
